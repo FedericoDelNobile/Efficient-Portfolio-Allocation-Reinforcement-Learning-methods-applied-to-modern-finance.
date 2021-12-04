@@ -1,3 +1,0 @@
-All the datasets are downloaded each time from the internet exept for the Crypto Baseline.
-Please substitute the path in the code with the one in wich you will place the file ("CMC_ALL_CRYPTO")
-To make the FinRL library work a version of Tensorflow<=1.15.4 is required and therefore a python version <=3.6
